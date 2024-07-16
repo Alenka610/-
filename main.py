@@ -1,6 +1,8 @@
-a = 'Топинамбур'
-print (a [0])
-print (a [-1])
-print (a [5:])
-print (a [ : : -1])
-print (a [1:10:2])
+name = ('Alyona')
+print(name)
+age = 30
+print(age)
+new_age = age + 1
+print(new_age)
+is_student = 'true'
+print(is_student)
