@@ -1,8 +1,7 @@
-name = ('Alyona')
-print(name)
-age = 30
-print(age)
-age = 31
-print(age)
-is_student = 'true'
-print(is_student)
+my_string = input ('Ваше имя и фамилия? ')
+print('длина строки: ', len(my_string))
+print(my_string.upper())
+print(my_string.lower())
+print(my_string.replace(' ', ''))
+print(my_string [0])
+print(my_string [-1])
